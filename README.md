@@ -4,7 +4,7 @@
 
 ### AI / Backend Engineer — Agentic Systems, RAG & GraphRAG
 
-B.Tech CSE @ VIT Vellore &nbsp;|&nbsp; CGPA 9.49 &nbsp;|&nbsp;
+B.Tech CSE @ VIT Vellore &nbsp;|&nbsp; CGPA 9.49 &nbsp;
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-neon-one-bklschfyxb.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihit-garg-abc141105/)
